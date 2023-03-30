@@ -17,6 +17,7 @@
 
 .FlexContent {
   background-color: #fffad5;
+  order: -1;
 }
 
 .FlexSideOne {
