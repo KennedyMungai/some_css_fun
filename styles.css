@@ -38,6 +38,7 @@ body {
   height: 625px;
   width: 10.41%;
   background-color: #03a66a;
+  display: inline-block;
 }
 
 .Footer {
