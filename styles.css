@@ -18,12 +18,12 @@
 
 .FlexContent {
   background-color: #fffad5;
-  order: 2;
+  order: 3;
 }
 
 .FlexSideOne {
   background-color: #ffd34e;
-  order: 3;
+  order: 2;
 }
 
 .FlexSideTwo {
