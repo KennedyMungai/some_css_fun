@@ -1,18 +1,14 @@
 .FlexWrapper {
   background-color: indigo;
   display: flex;
+  justify-content: center;
   height: 200px;
-  width: 400px;
-  align-items: center;
+  width: 100%;
 }
 
 .FlexItem {
   background-color: #34005b;
   display: flex;
   height: 100px;
-  width: 200px;
-}
-
-.AlignSelf {
-  align-self: flex-end;
+  width: 25%;
 }
