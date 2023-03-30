@@ -22,9 +22,13 @@ body {
 
 .Left {
   height: 625px;
-  height: 20.83%;
   background-color: #03a66a;
   display: inline-block;
+  position: absolute;
+  left: -200px;
+  width: 200px;
+  font-size: 0.9rem;
+  transition: transform 0.3s;
 }
 
 .Middle {
