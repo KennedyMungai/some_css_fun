@@ -11,8 +11,9 @@ body {
 }
 
 .FlexItem {
+  border: 1px solid #ebebeb;
   background-color: #34005b;
   display: flex;
   height: 100px;
-  width: 25%;
+  flex: 1;
 }
