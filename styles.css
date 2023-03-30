@@ -12,6 +12,7 @@
 .ListItem,
 .LastItem {
   color: #ebebeb;
+  text-decoration: none;
 }
 
 .ListItem {
