@@ -1,7 +1,7 @@
 .FlexWrapper {
   background-color: indigo;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   height: 200px;
   width: 100%;
 }
