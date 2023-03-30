@@ -35,3 +35,32 @@
   background-color: #bd4932;
   order: 5;
 }
+
+@media (min-width: 30rem) {
+  .FlexWrapper {
+    flex-flow: row wrap;
+  }
+
+  .FlexHeader {
+    width: 100%;
+  }
+
+  .FlexContent {
+    flex: 1 0 auto;
+    order: 3;
+  }
+
+  .FlexSideOne {
+    width: 150px;
+    order: 2;
+  }
+
+  .FlexSideTwo {
+    width: 150px;
+    order: 4;
+  }
+
+  .FlexFooter {
+    width: 100%;
+  }
+}
