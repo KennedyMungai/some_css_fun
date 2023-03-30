@@ -1,10 +1,13 @@
-.InlineFlex {
-  display: inline-flex;
-  align-items: center;
-  height: 120px;
-  padding: 0 4px;
+.FlexWrapper {
   background-color: indigo;
-  text-decoration: none;
-  border-radius: 3px;
-  color: #ddd;
+  display: flex;
+  height: 200px;
+  width: 400px;
+}
+
+.FlexItem {
+  background-color: #34005b;
+  display: flex;
+  height: 100px;
+  width: 200px;
 }
