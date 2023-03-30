@@ -12,3 +12,7 @@
   height: 100px;
   width: 200px;
 }
+
+.AlignSelf {
+  align-self: flex-end;
+}
